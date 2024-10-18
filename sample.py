@@ -1,4 +1,4 @@
-tuple=('great')
+tuple=('theman')
 n=5
 print("\n tuple:")
 for i in range(int(n)):
